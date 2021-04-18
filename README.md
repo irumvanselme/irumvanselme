@@ -3,7 +3,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/officialanselme?style=social)
 
 #### About me
-> Student at Rwanda Coding Academy, 
+> Student at Rwanda Coding Academy, <br/>
 > I see coding as an artform, so I am among the artisans in this field
 
 
