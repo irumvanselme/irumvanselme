@@ -2,14 +2,10 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/officialanselme?style=social)
 
----
-
 #### About me
-> this is the about me
+> Student at Rwanda Coding Academy, 
+> I see coding as an artform, so I am among the artisans in this field
 
 
----
-
-🧰 Toolbox
-
----
+*I am going to build something amazing*
+*And you are going to like it*
