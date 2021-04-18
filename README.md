@@ -8,6 +8,7 @@
 
 #### What I made so far
 > 1. Baza app
+> 2. Korea auto parts
 
 ***I am going to build something amazing* <br/>
 *And you are going to like it***
