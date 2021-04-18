@@ -6,6 +6,8 @@
 > Student at Rwanda Coding Academy, <br/>
 > I see coding as an artform, so I am among the artisans in this field
 
+#### What I made so far
+> 1. Baza app
 
 ***I am going to build something amazing* <br/>
 *And you are going to like it***
