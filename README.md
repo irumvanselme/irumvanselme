@@ -2,6 +2,8 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/officialanselme?style=social)
 
+---
+
 #### About me
 > this is the about me
 
