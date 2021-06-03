@@ -17,3 +17,13 @@
 
 **_I am going to build something amazing_ <br/>
 _And you are going to like it_**
+
+
+#### Not on a computer
+
+> Apart from coding I also enjoy
+> 1. Cooking
+> 1. drawing
+> 1. reading books 
+> 1. singing and
+> 1. listening to scienctific documentaries
