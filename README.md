@@ -14,7 +14,7 @@
 > 5. [DolphinDevelopers](https://dolphindevelopers.netlify.app/) A simple HTML / CSS Website (Done on classwork purposes)
 > 5. [ExpropriationApp](https://exploitationrw.herokuapp.com) A Laravel (made) system to handle expropriation
 
-**_I am going to build something amazing_ <br/>
+**_I am building something amazing_ <br/>
 _And you are going to like it_**
 
 
