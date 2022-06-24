@@ -2,7 +2,7 @@
 
 #### About me
 
-> Student at Rwanda Coding Academy, <br/>
+> Experienced Software Engineer, <br/>
 > I see coding as an artform, so I am among the artisans in this field
 
 #### What I made so far
