@@ -1,4 +1,4 @@
-#### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am irumva anselme!
+#### Hi there! I am irumva anselme!
 
 #### About me
 
@@ -26,3 +26,6 @@ _And you are going to like it_**
 > 1. reading books 
 > 1. singing and
 > 1. listening to scienctific documentaries
+
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=irumvanselme&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
