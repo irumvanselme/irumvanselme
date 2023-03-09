@@ -1,1 +1,0 @@
-#### Hi there! I am senior Web Developer, Happy to meet you!
