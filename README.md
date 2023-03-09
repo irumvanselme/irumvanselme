@@ -28,4 +28,4 @@ _And you are going to like it_**
 > 1. listening to scienctific documentaries
 
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=irumvanselme&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=irumvanselme&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
