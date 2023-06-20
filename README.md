@@ -3,10 +3,8 @@
 #### About me
 
 > Experienced Software Engineer, <br/>
-> I see coding as an artform, so I am among the artisans in this field
+> Building Digital products, brands, and experience as a code artist
 
-**_I am building something amazing_ <br/>
-_And you are going to like it_**
-
+[Website](https://www.iansel.me/)  -   [Twitter](https://twitter.com/irumvanselme)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=irumvanselme&bg_color=000000&color=a6a6a6&line=4c779e&point=ffffff&area=true&hide_border=true)
