@@ -2,7 +2,7 @@
 
 #### About me
 
-> Experienced Software Engineer, <br/>
+> TypeScript - React - Java, <br/>
 > Building Digital products, brands, and experience as a code artist
 
 [Website](https://www.iansel.me/)  -   [Twitter](https://twitter.com/irumvanselme)
