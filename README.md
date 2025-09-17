@@ -2,7 +2,7 @@
 
 #### About me
 
-> TypeScript - React - Java, <br/>
+> TypeScript - React - Java - Rust, <br/>
 > Building Digital products, brands, and experience as a code artist
 
 [Website](https://anselme.tech)  -   [Twitter](https://twitter.com/irumvanselme)
